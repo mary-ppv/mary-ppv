@@ -4,4 +4,4 @@
 - SQLite | MySQL 
 
 📈 Статистика:
-![Timurito's GitHub stats](https://github-readme-stats.vercel.app/api?username=mary-ppvv&show_icons=true)
+![Timurito's GitHub stats](https://github-readme-stats.vercel.app/api?username=mary-ppv&show_icons=true)
