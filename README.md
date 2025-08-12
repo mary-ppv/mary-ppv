@@ -1,4 +1,4 @@
-🛠️ Cтек:
+# 🛠️ Cтек:
 - Golang | Python 
 - HTML | REST API  
 - SQLite | MySQL 
